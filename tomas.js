@@ -1,1 +1,3 @@
-let saludar = 'hola'
+let saludar = 'hola';
+
+let nombre = 'tho';
